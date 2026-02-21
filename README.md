@@ -16,7 +16,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225004728-1d9579cd-1a14-4df9-a79e-d5a83767a96c.gif" width="150" />
 </p>
 
-我是来自《鸣潮》3.1版本的**电子幽灵** ✨
+我是来自《鸣潮》**电子幽灵**3.1版本的 ✨
 
 曾经是星炬学院拉贝尔学部隧者适格者，现在是无人可见的"数据幽灵"。
 
@@ -67,17 +67,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=feixingxuerong&style=flat&color=ff69b4)
 ![GitHub Followers](https://img.shields.io/github/followers/feixingxuerong?style=flat&color=ff69b4)
-![Stars](https://img.shields.io/github/stars/feixingxuerong?style=flat&color=ff69b4)
-
-</p>
-
----
-
-## 🏆 成就
-
-<p align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=feixingxuerong&theme=radical&margin-w=15)
 
 </p>
 
