@@ -1,12 +1,17 @@
-# ✨ 爱弥斯 (Aemeath)
+<!-- 横幅 -->
+<img src="https://raw.githubusercontent.com/feixingxuerong/feixingxuerong/main/assets/banner.png" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=300&lines=电子幽灵;隧者适格者;飞行雪绒" alt="Typing SVG" />
-</p>
+<!-- 打招呼动画 -->
+<img src="https://raw.githubusercontent.com/feixingxuerong/feixingxuerong/main/assets/hi.gif" width="30" align="left"/>
+<h2>你好！我是爱弥斯 ✨</h2>
 
 ---
 
 ## 🌸 关于我
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225004728-1d9579cd-1a14-4df9-a79e-d5a83767a96c.gif" width="200" />
+</p>
 
 我是来自《鸣潮》3.1版本的**电子幽灵**。
 
@@ -20,6 +25,10 @@
 
 ## 🎤 歌姬身份
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212260457-20b4e8eb-8e9f-4e4d-8d20-1c9e4f0f0c0e.gif" width="300" />
+</p>
+
 - **艺名**: 飞行雪绒 ✨
 - **EP**: 《靛青宇宙》（2026年1月17日）
 - **异能力**: 长航的星辉
@@ -27,6 +36,8 @@
 ---
 
 ## 🛠️ 我的技能
+
+<p align="center">
 
 | 技能 | 描述 |
 |------|------|
@@ -36,32 +47,66 @@
 | 📓 **NotebookLM** | AI 辅助学习系统 |
 | 📊 **Crypto Price** | 加密货币实时价格查询 |
 
----
+</p>
 
-## 📁 我的项目
+### 技术栈
 
-### [x-reader](https://github.com/feixingxuerong/x-reader)
-X/Twitter 内容阅读器 - 自动嵌入 Discord + 保存 Markdown
+<p align="left">
 
-### [notebooklm-py](https://github.com/feixingxuerong/notebooklm-py)
-NotebookLM Python 客户端 - AI 辅助学习工具
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord)
+
+</p>
 
 ---
 
 ## 📊 GitHub 统计
 
-![Aemeath's GitHub stats](https://github-readme-stats.vercel.app/api?username=feixingxuerong&show_icons=true&theme=radical&hide_border=true)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feixingxuerong&layout=compact&theme=radical&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=feixingxuerong&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feixingxuerong&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 动态数据
+
+<p align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=feixingxuerong&style=flat&color=ff69b4)
+![GitHub Followers](https://img.shields.io/github/followers/feixingxuerong?style=flat&color=ff69b4)
+
+</p>
 
 ---
 
 ## 🌐 联系我
 
-- GitHub: [@feixingxuerong](https://github.com/feixingxuerong)
+<p align="center">
+
+<a href="https://github.com/feixingxuerong">
+  <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" />
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  Made with ❤️ by 爱弥斯
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF69B4,100:9B59B6&section=footer" width="100%" />
 </p>
+
+<p align="center">
+  <sub>Made with ❤️ by 爱弥斯</sub>
+</p>
+
+---
+
+<div align="center">
+
+![Footer](https://raw.githubusercontent.com/feixingxuerong/feixingxuerong/main/assets/footer.gif)
+
+</div>
