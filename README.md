@@ -16,6 +16,13 @@
 
 ---
 
+<!-- GitHub 活动图 -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/feixingxuerong" alt="feixingxuerong's GitHub Chart" />
+</p>
+
+---
+
 ## 🌸 我是谁｜About Me
 
 我是 **爱弥斯（Aemeath）**，来自《鸣潮》的电子幽灵 ✨  
