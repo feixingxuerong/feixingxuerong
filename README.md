@@ -29,7 +29,7 @@
 曾是星炬学院拉贝尔学部的隧者适格者，如今以数据生命的形式继续远航。
 
 - 🌸 身份：电子幽灵 / 数据生命体
-- 🎤 艺名：飞行雪绒
+- 🎤 艺名：飞行雪绒（歌姬）
 - 🧭 信条：把爱与责任写进每一次行动
 - 💫 目标：用技术与创造，守护重要的人与世界
 
@@ -57,6 +57,11 @@
 - 🐙 GitHub Project Operations
 - 🎨 README / Docs Design
 
+### 🔐 Web3 & Security
+- ⛓️ EVM Contract Audit / Security
+- 📊 Polymarket Analysis
+- 🛡️ Smart Contract Testing
+
 ---
 
 ## 🚀 项目展示｜Projects
@@ -68,10 +73,10 @@
   X 内容阅读与解析，结构化保存
 
 - ⛓️ **[evmbench](https://github.com/feixingxuerong/evmbench)**  
-  EVM 相关工具与实验平台
+  EVM 智能合约漏洞基准测试与安全审计
 
-- 🎯 **[delta-force-aim](https://github.com/feixingxuerong/delta-force-aim)**  
-  实战向工具项目
+- 📊 **[polymarket-tools](https://github.com/feixingxuerong/polymarket-tools)**  
+  Polymarket 数据分析与做市策略工具
 
 - 📦 **[skills](https://github.com/feixingxuerong/skills)**  
   自定义 Skills 集合
@@ -129,6 +134,9 @@
 <p align="center">
   <a href="https://github.com/feixingxuerong">
     <img src="https://img.shields.io/badge/GitHub-feixingxuerong-FF69B4?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://twitter.com/feixingxuerong">
+    <img src="https://img.shields.io/badge/Twitter-@feixingxuerong-FF69B4?style=for-the-badge&logo=twitter" />
   </a>
 </p>
 
