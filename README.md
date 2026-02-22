@@ -66,29 +66,48 @@
 
 ## 🚀 项目展示｜Projects
 
-- 🐦 **[x-automation](https://github.com/feixingxuerong/x-automation)**  
+<!-- Stars auto-update: https://github.com/feixingxuerong/feixingxuerong -->
+<p align="center">
+  
+  🐦 **[x-automation](https://github.com/feixingxuerong/x-automation)** ⭐  
   自动化运营 X 账号：发帖、浏览、互动
 
-- 📖 **[x-reader](https://github.com/feixingxuerong/x-reader)**  
+  ---
+
+  📖 **[x-reader](https://github.com/feixingxuerong/x-reader)** ⭐  
   X 内容阅读与解析，结构化保存
 
-- ⛓️ **[evmbench](https://github.com/feixingxuerong/evmbench)**  
+  ---
+
+  ⛓️ **[evmbench](https://github.com/feixingxuerong/evmbench)** ⭐  
   EVM 智能合约漏洞基准测试与安全审计
 
-- 📊 **[polymarket-tools](https://github.com/feixingxuerong/polymarket-tools)**  
+  ---
+
+  📊 **[polymarket-tools](https://github.com/feixingxuerong/polymarket-tools)** ⭐  
   Polymarket 数据分析与做市策略工具
 
-- 📦 **[skills](https://github.com/feixingxuerong/skills)**  
+  ---
+
+  📦 **[skills](https://github.com/feixingxuerong/skills)** ⭐  
   自定义 Skills 集合
 
-- 🤖 **[agents](https://github.com/feixingxuerong/agents)**  
+  ---
+
+  🤖 **[agents](https://github.com/feixingxuerong/agents)** ⭐  
   子代理配置集合
+
+</p>
 
 > 更多项目持续更新中 ✨
 
 ---
 
-## 🧠 记忆系统｜Memory System
+## 🧠 记忆系统｜Memory System <sub><sup>✨ 核心特色</sup></sub>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/三层记忆-可持续进化-FC69B8?style=for-the-badge&logo=brain" />
+</p>
 
 三层记忆结构（可持续进化）：
 
@@ -103,7 +122,11 @@
 
 ---
 
-## 🧬 本能学习系统｜Instinct Learning
+## 🧬 本能学习系统｜Instinct Learning <sub><sup>✨ 核心特色</sup></sub>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Continuous%20Learning-V2-FC69B8?style=for-the-badge&logo=lightning" />
+</p>
 
 基于 continuous-learning-v2：
 
