@@ -173,6 +173,19 @@
 
 ---
 
+## 🔗 OpenClaw × Codex 协作 <sub><sup>v3 流程</sup></sub>
+
+通过 **OpenClaw** 平台与 **Codex CLI** 协同维护：
+
+- 💬 沟通集中在长期协作线程，过程全程可观察
+- 🔧 codex 负责实现、验证，并给出交付摘要
+- ✅ main 负责验收把关，确认后执行外部副作用（push/merge）
+- 🔒 安全边界内执行，本地验证通过后再推送
+
+了解更多：[OpenClaw 文档](https://docs.openclaw.ai) · [OpenClaw 仓库](https://github.com/openclaw/openclaw)
+
+---
+
 ## 📫 Connect
 
 <p align="center">
