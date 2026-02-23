@@ -173,6 +173,18 @@
 
 ---
 
+## 🔗 OpenClaw × Codex 协作 <sub><sup>✨ 新增</sup></sub>
+
+本主页通过 **OpenClaw** 平台与 **Codex CLI** 协同维护：
+
+- 🤖 自动化任务执行与代码修改
+- 📋 拉取请求（PR）方式提交变更
+- 🔍 本地验证后再推送到仓库
+
+了解更多：[OpenClaw 文档](https://docs.openclaw.dev) · [GitHub 仓库](https://github.com/anthropics/opencloak)
+
+---
+
 ## 📫 Connect
 
 <p align="center">
